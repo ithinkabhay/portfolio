@@ -51,14 +51,14 @@ export function Navigation() {
               </Link>
             </li>
           ))}
-          <li>
+          {/* <li>
             <Link
               href="/resume.pdf"
               className="border border-primary text-primary px-4 py-2 rounded font-mono text-sm hover:bg-primary/10 transition-colors"
             >
               Resume
             </Link>
-          </li>
+          </li> */}
         </ul>
 
         {/* Mobile Menu Button */}
